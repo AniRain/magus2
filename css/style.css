@@ -114,7 +114,7 @@ article p {
 {
   line-height: 300px;
   margin-top: 200px;
-  
+ } 
   a:link {
     color: #f2f2f2;
     text-decoration: none;
@@ -122,22 +122,22 @@ article p {
 }
 
   a:visited {
-    color: #79919a;
+    color: #542b64;
     text-decoration: underline;
 }
 
 
   a:hover {
-    color: #8a8cea;
+    color: #f2f2f2;
     font-weight: bold;
 }
 
   a:active {
-    color: #a9dff4;
-    text-decoration: none;
+    color: #9a54b6;
+    text-decoration: underline;
 }
 
-}
+
 
 header,
 footer,
