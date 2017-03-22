@@ -33,7 +33,7 @@ header
 {
   width: 100%;
   height: 100%;
-  background: url("../image/waterbackground3.jpg") no-repeat 50% 50%;
+  background: url("../image/waterbackground1.jpg") no-repeat 50% 50%;
 
   top: 0;
   position: fixed;
@@ -54,7 +54,7 @@ footer
 {
   height: 1000px;
   min-height: 1000px;
-  background: url("../image/waterbackground22.png");
+  background: url("../image/waterbackground4.jpg");
   background-size: cover;
   background-position: bottom;
   position: relative;
